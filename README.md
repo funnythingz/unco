@@ -2,4 +2,4 @@
 
 unco is uncool.
 
-&copy: funnythingz
+&copy; funnythingz
